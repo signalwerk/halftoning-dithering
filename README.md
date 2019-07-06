@@ -15,3 +15,6 @@
    Blue-noise halftoning
    
    https://www.researchgate.net/publication/3321489_Blue_and_green_noise_halftoning_models
+
+
+http://www.iro.umontreal.ca/~ostrom/publications/
