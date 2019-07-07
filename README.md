@@ -18,3 +18,4 @@
 
 
 http://www.iro.umontreal.ca/~ostrom/publications/
+http://momentsingraphics.de/?p=148
