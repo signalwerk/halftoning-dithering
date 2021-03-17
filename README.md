@@ -1,5 +1,7 @@
 # halftoning
 
+* https://github.com/joeedh/BlueNoiseStippling
+
 * https://www.eecis.udel.edu/~arce/files/Publications/5-DigitalHaftoning.pdf
 
   IIEEJ Transactions on
