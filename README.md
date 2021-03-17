@@ -1,5 +1,6 @@
 # halftoning
 
+* https://developer.oculus.com/blog/tech-note-shader-snippets-for-efficient-2d-dithering/
 * https://github.com/joeedh/BlueNoiseStippling
 
 * https://www.eecis.udel.edu/~arce/files/Publications/5-DigitalHaftoning.pdf
