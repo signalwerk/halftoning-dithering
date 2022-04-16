@@ -1,6 +1,7 @@
 # halftoning
 
 * [Bleach Cotton as dither](https://www.instagram.com/p/B6U5ONABXjI/)
+* [Turing pattern](https://en.wikipedia.org/wiki/Turing_pattern)
 * https://developer.oculus.com/blog/tech-note-shader-snippets-for-efficient-2d-dithering/
 * https://www.imaging.org/site/PDFS/Papers/1999/RP-0-93/1786.pdf & https://eheitzresearch.wordpress.com/772-2/
 * https://hal.archives-ouvertes.fr/hal-02158423/file/blueNoiseTemporal2019_slides.pdf
